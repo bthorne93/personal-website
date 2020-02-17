@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Ben Thorne
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoc in Astrophysics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of California, Davis
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include cosmology using the cosmic microwave background, data analysis, and machine learning.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine learning
+- Cosmology
+- Cosmic microwave background
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Astrophysics
+    institution: University of Oxford
+    year: 2019
+  - course: MPhys, Physics
+    institution: University of Oxford
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +41,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:bn.thorne@googlemail.com'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=tfNPd34AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/bthorne93
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +67,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a postdoctoral researcher in the physics department of the University of California, Davis. My research focuses on using observations of the cosmic microwave background (CMB) to 
+understand the earliest moments of cosmic history. 
