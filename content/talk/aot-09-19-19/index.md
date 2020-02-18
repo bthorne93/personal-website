@@ -62,4 +62,4 @@ slides: ""
 math: true
 ---
 
-{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vSUVZwa3nwJY0hiPa47dCPWWxKFI2RwSW-O4sdKD6s48iQ5vHMdQlf0r6Yt9tSBylsYrV1RSbGkrNJr/embed?start=false&loop=false&delayms=3000" >}}
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSUVZwa3nwJY0hiPa47dCPWWxKFI2RwSW-O4sdKD6s48iQ5vHMdQlf0r6Yt9tSBylsYrV1RSbGkrNJr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
